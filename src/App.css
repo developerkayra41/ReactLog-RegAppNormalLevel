@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-color: gainsboro;
+  padding: 1rem;
+  box-shadow: 1px 1px 10px 1px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+body {
+  background-color: #f1f1f1;
+}

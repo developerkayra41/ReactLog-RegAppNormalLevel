@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "382d",
+      "nickName": "xkyr41",
+      "name": "Kayra",
+      "age": 21,
+      "password": "123456"
+    },
+    {
+      "id": "b68b",
+      "nickName": "yld25",
+      "name": "Yelda25",
+      "age": 19,
+      "password": "123456"
+    }
+  ]
+}
